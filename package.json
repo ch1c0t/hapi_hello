@@ -1,0 +1,9 @@
+{
+  "name": "hapi_hello",
+  "dependencies": {
+    "hapi": "^16.6.2"
+  },
+  "devDependencies": {
+    "coffeescript": "^2.0.2"
+  }
+}
